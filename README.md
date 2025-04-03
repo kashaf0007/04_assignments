@@ -15,5 +15,5 @@
  
  -- 06_square_number
  
- ## 01_expressions
+ ## 1️⃣  01_expressions
  -- 01_dicesimulator
